@@ -37,6 +37,6 @@ git clone git@github.com:saigowthamr/gatsbyblog-starter.git
 Then you can run it by:
 
 ```sh
-cd reactgo.com
+cd gatsbyblog-starter
 gatsby develop
 ```

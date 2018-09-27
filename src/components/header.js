@@ -25,8 +25,10 @@ const Header = ({ siteTitle }) => (
         >
           {siteTitle}
         </Link>
-        <a href="https://github.com/saigowthamr/gatsbyblog-starter" title="github" >Github</a>
+
       </h1>
+      <a href="https://github.com/saigowthamr/gatsbyblog-starter"
+        style={{ color: "white", float: "right" }} title="github" >Github</a>
     </div>
   </div>
 )
