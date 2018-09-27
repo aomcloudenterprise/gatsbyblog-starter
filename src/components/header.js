@@ -25,6 +25,7 @@ const Header = ({ siteTitle }) => (
         >
           {siteTitle}
         </Link>
+        <a href="https://github.com/saigowthamr/gatsbyblog-starter" title="github" >Github</a>
       </h1>
     </div>
   </div>
